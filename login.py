@@ -4,7 +4,7 @@ import tkinter as gui
 import tkinter.messagebox
 
 # Connect to the MySQL database
-cn= mysql.connect (database= 'python', user= "root", password= "root")
+cn= mysql.connect (database= 'python', user= "root", password= "vrushti123")
 
 # Create GUI window
 w= gui.Tk()
